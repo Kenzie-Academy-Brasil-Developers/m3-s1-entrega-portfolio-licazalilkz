@@ -1,0 +1,14 @@
+.flexBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flexBoxLeft{
+    width: 31.25rem;
+    height: 17.3125rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.875rem;
+}

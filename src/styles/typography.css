@@ -1,0 +1,43 @@
+.title.one{
+    font-family: var(--font-primary);
+    font-weight: 800;
+    line-height: 3rem;
+    font-size: var(--title-1-size);
+    color: var(--color-white);
+}
+
+.title.two{
+    font-family: var(--font-primary);
+    font-weight: 800;
+    line-height: 3rem;
+    font-size: var(--title-2-size);
+    color: var(--color-white);
+}
+
+.title.three{
+    font-family: var(--font-primary);
+    font-weight: 800;
+    line-height: 1.625rem;
+    font-size: var(--title-3-size);
+    color: var(--color-white);
+}
+
+.paragraph{
+    font-family: var(--font-primary);
+    font-weight: 400;
+    line-height: 1.875rem;
+    font-size: var(--paragraph-size);
+    color:var(--color-white);
+}
+
+.link{
+    font-family: var(--font-primary);
+    font-weight: 400;
+    line-height: 30px;
+    font-size: var(--paragraph-size);
+    color:var(--color-primary);
+}
+
+.link:hover{
+    color: var(--color-primary-hover);
+}

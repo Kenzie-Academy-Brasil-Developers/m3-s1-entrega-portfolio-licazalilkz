@@ -1,0 +1,13 @@
+:root{
+    --color-background: rgba(12, 12, 12, 0.94);
+    --color-primary: #6880FF;
+    --color-primary-hover: #7C91FF;
+    --color-white:#FFFFFF;
+    --font-primary:'Inter', sans-serif;
+    --title-bold: bold;
+    --title-1-size:3.625rem;
+    --title-2-size:2.5rem;
+    --title-3-size:1.375rem;
+    --link-size:1rem;
+    --paragraph-size:1rem;
+}

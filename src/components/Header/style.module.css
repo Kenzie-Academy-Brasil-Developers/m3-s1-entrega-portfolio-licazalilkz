@@ -1,0 +1,10 @@
+.flexBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flexBoxMenu{
+    display: flex;
+    gap: 0.3125rem;
+}

@@ -1,0 +1,11 @@
+.flexBox{
+    display: flex;
+    gap: 3.125rem;
+}
+
+.flexAboutMe{
+    min-width: 15rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.875rem;
+}

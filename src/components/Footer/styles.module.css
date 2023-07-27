@@ -1,0 +1,11 @@
+.flexBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flexImg{
+    display: flex;
+    flex-direction: row;
+    gap: 0.625rem;
+}
